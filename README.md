@@ -1,8 +1,6 @@
 # PAGINA PERSONAL-JULIAN ANDRES MUÑOZ
 
-BIENVENIDOS A MI PAGINA PERSONAL.
-
-Este proyecto es mi primer acercamiento al desarrollo web. Fue creado con el objetivo de aprender y practicar los fundamentos de HTML, CSS y programación básica. La página incluye un saludo personalizado y está diseñada para ser simple, funcional y fácil de entender.
+Bienvenido a Mi Página Personal, un proyecto creado para explorar el mundo del desarrollo web y compartir contenido de forma sencilla y accesible.
 
 Se han estudiado diversos temas en las clases que hemos visto hasta el momento, y se refleja en la siguiente información.
 
@@ -26,4 +24,4 @@ print(mensaje)
 En resumen, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
 
 Referencias de IA.
-https://copilot.microsoft.com/shares/efuL9dHSd4mzeXaJWKgTS
+https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7 
