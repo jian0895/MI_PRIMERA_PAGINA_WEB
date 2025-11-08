@@ -1,6 +1,8 @@
 # PAGINA PERSONAL-JULIAN ANDRES MUÑOZ
 
-Bienvenido a Mi Página Personal, un proyecto creado para explorar el mundo del desarrollo web y compartir contenido de forma sencilla y accesible.
+**Bienvenido a Mi Página Personal, un proyecto creado para explorar el mundo del desarrollo web y compartir contenido de forma sencilla y accesible.**
+
+**Temas vistos en clase**
 
 Se han estudiado diversos temas en las clases que hemos visto hasta el momento, y se refleja en la siguiente información.
 
@@ -14,6 +16,8 @@ También conocimos herramientas colaborativas que permiten la interacción en ti
 
 Y lo último sobre lo que hemos hablado son las variables como elemento clave dentro de los algoritmos ya que estas guardan datos que pueden cambiar y también nos permiten realizar incluso operaciones matemáticas y generar decisiones lógicas.
 
+**Ejemplo de python**
+
 ```python
 NOMBRE_PAGINA = "Mi Página Personal"
 usuario = "Julian"
@@ -21,7 +25,9 @@ mensaje = f"Hola, {usuario}, bienvenido a {NOMBRE_PAGINA}"
 print(mensaje)
 ```
 
+**Reflexion personal de los temas vistos y aprendidos**
+
 En resumen, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
 
-Referencias de IA.
+**Referencias de IA.**
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7 
