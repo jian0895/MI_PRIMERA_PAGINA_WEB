@@ -23,8 +23,5 @@ print(mensaje)
 
 En resumen, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
 
-hola mundo 
-<div style="background-color: #f0f8ff; padding: 20px;">
-
 Referencias de IA.
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7 
