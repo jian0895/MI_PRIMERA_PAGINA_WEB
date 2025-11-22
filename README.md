@@ -31,4 +31,5 @@ En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase,
 
 **Referencias de IA.**
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7 
+
 [Despliegue de la tortuga veloz](tarea2.md)
