@@ -30,6 +30,7 @@ print(mensaje)
 En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
 
 **Referencias de IA.**
-https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7 
+https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7
+
 
 [Despliegue de la tortuga veloz](tarea2.md)
