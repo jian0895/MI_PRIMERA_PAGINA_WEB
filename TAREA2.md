@@ -25,7 +25,8 @@ abajo(2)
 
 print((" " * espacios) + "" "→" + "🐢")
 ```
-<img width="286" height="221" alt="image" src="https://github.com/user-attachments/assets/a0486d54-25d1-4a0c-aa38-a798f84516d5" />
+<img width="210" height="217" alt="image" src="https://github.com/user-attachments/assets/a44f806c-0268-46e9-8d14-cfdb0f0d6062" />
+
 
 
 # Y tambien adjunte una opcion en la que podemos preguntar cuantos pasos queremos que de la tortuga y esta automatizada para moverse en la terminal grafica de python.
