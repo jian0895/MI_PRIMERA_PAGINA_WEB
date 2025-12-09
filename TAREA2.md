@@ -7,7 +7,7 @@ espacios = 0
 
 def adelante(camina_adelante):
     global espacios
-    print((" " * espacios) + ">" + ("-" * camina_adelante) + "v")
+    print((" " * espacios) + "→" + ("-" * camina_adelante) + "↓")
     espacios += camina_adelante + 1
 
 def abajo(camina_abajo):
@@ -23,7 +23,7 @@ abajo(2)
 adelante(5)
 abajo(2)
 
-print((" " * espacios) + ">" + "🐢")
+print((" " * espacios) + "" "→" + "🐢")
 ```
 <img width="286" height="221" alt="image" src="https://github.com/user-attachments/assets/a0486d54-25d1-4a0c-aa38-a798f84516d5" />
 
