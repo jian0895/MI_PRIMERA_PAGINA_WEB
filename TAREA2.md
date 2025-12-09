@@ -1,3 +1,32 @@
+# A continuacion haremos mover una tortuga con el siguiente codigo.
+```python
+import turtle
+
+tortuga = "t"
+espacios = 0
+
+def adelante(camina_adelante):
+    global espacios
+    print((" " * espacios) + ">" + ("-" * camina_adelante) + "v")
+    espacios += camina_adelante + 1
+
+def abajo(camina_abajo):
+    for _ in range(camina_abajo):
+        print((" " * espacios) + "|")
+
+adelante(5)
+abajo(2)
+
+adelante(5)
+abajo(2)
+
+adelante(5)
+abajo(2)
+
+print((" " * espacios) + ">" + "🐢")
+```
+
+# Y tambien adjunte una opcion en la que podemos preguntar cuantos pasos queremos que de la tortuga y esta automatizada para moverse en la terminal grafica de python.
 
 ```python
 import turtle
