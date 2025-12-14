@@ -1,20 +1,31 @@
-# PAGINA PERSONAL-JULIAN ANDRES MUÑOZ
+**Página Personal – Julian Andrés Muñoz**
 
-**Bienvenido a Mi Página Personal, un proyecto creado para explorar el mundo del desarrollo web y compartir contenido de forma sencilla y accesible.**
+<img width="178" height="175" alt="image" src="https://github.com/user-attachments/assets/835934b8-780f-4fc6-808b-0dbd4f98aec3" />
 
-**Temas vistos en clase.**
 
-Se han estudiado diversos temas en las clases que hemos visto hasta el momento, y se refleja en la siguiente información.
+Bienvenido a mi blog personal, un proyecto creado para explorar el mundo del desarrollo web y compartir contenido de manera clara y accesible.
+Sobre los temas vistos en clase hemos abordado conceptos esenciales que explican cómo funciona la tecnología que usamos a diario. Aquí te presento un resumen:
 
-Resulta que las computadoras, aunque parezcan complejas, funcionan siguiendo reglas muy simples (que realmente son difíciles de entender, pero se trata solo de estudiarlas), la lógica binaria, encendido (1) y apagado (0), es el sistema base de los algoritmos, y funciona por medio de los transistores, que emiten las señales eléctricas bloqueando o permitiendo el paso de la energía, lo que permite que se envíen y codifiquen las instrucciones que le damos al ordenador o dispositivo que usemos.
+**1. El corazón de las computadoras.**
 
-El almacenamiento digital surge de estos “1” y “0” ya que cada dato, instrucción o lo que sea que nos imaginemos se almacena con la formación de bytes como unidades mínimas de almacenamiento, actualmente en celdas microscópicas de dispositivos como los discos SSD.
+Aunque parecen complejas, las computadoras siguen reglas simples basadas en la lógica binaria: encendido (1) y apagado (0). Este sistema es posible gracias a los transistores, pequeños interruptores que permiten o bloquean el paso de energía. Así se transmiten y codifican las instrucciones que damos a nuestros dispositivos.
 
-Respecto a los lenguajes de programación podemos decir que son la herramienta que usamos para codificar la forma en la que vamos a comunicarnos con la maquina ya que no podríamos usar un lenguaje natural porque no podría entenderlo debido a su funcionamiento por lógica binaria, esta nos permite transformas nuestras ideas en las instrucciones que la maquina si puede entender. 
+**2. El origen del almacenamiento digital.**
 
-También conocimos herramientas colaborativas que permiten la interacción en tiempo real de cualquier persona con un computador y conexión a internet para la creación y edición de programas de software.
+Todo lo que guardamos —fotos, documentos, programas— se almacena como combinaciones de “1” y “0”. Estos se agrupan en bytes, las unidades mínimas de almacenamiento, que hoy se encuentran en celdas microscópicas dentro de dispositivos como los discos SSD.
 
-Y lo último sobre lo que hemos hablado son las variables como elemento clave dentro de los algoritmos ya que estas guardan datos que pueden cambiar y también nos permiten realizar incluso operaciones matemáticas y generar decisiones lógicas.
+**3. Lenguajes de programación: nuestro puente.**
+
+Para comunicarnos con las máquinas no podemos usar lenguaje natural, porque ellas solo entienden lógica binaria. Por eso existen los lenguajes de programación, herramientas que transforman nuestras ideas en instrucciones que la computadora puede interpretar.
+
+**4. Trabajo colaborativo en la nube.**
+
+También exploramos herramientas que permiten crear y editar software en tiempo real, desde cualquier lugar, siempre que tengamos un computador y conexión a internet. La colaboración se ha convertido en parte esencial del desarrollo moderno.
+
+**5. Variables: la clave de la flexibilidad.**
+
+Finalmente, conocimos las variables, elementos que almacenan datos que pueden cambiar. Gracias a ellas, los algoritmos pueden realizar operaciones matemáticas y tomar decisiones lógicas, haciendo que los programas sean dinámicos y adaptables.
+
 
 **Ejemplo de python.**
 
@@ -27,7 +38,7 @@ print(mensaje)
 
 **Reflexion personal de los temas vistos y aprendidos.**
 
-En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria.
+En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase, desde los transistores que encienden y apagan señales, hasta los algoritmos que guían el comportamiento de los programas, todo en la informática está conectado por la lógica binaria, y los conocimientos adquiridos son los que nos ayudan a comprender cómo funciona la tecnología que nos rodea.
 
 **Referencias de IA.**
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7
