@@ -6,6 +6,7 @@
 Bienvenido a mi blog personal, un proyecto creado para explorar el mundo del desarrollo web y compartir contenido de manera clara y accesible.
 Sobre los temas vistos en clase hemos abordado conceptos esenciales que explican cómo funciona la tecnología que usamos a diario. Aquí te presento un resumen:
 
+
 **1. El corazón de las computadoras.**
 
 Aunque parecen complejas, las computadoras siguen reglas simples basadas en la lógica binaria: encendido (1) y apagado (0). Este sistema es posible gracias a los transistores, pequeños interruptores que permiten o bloquean el paso de energía. Así se transmiten y codifican las instrucciones que damos a nuestros dispositivos.
@@ -42,6 +43,11 @@ En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase,
 
 **Referencias de IA.**
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7
+
+**TAREA Mini_Turtle**
+
+[Ejercicio 1 ](https://github.com/jian0895/mini_turtle_task.git)
+[Ejercicio 2 ](https://github.com/jian0895/mini_turtle_oo_task.git)
 
 
 [Despliegue de la tortuga veloz](TAREA2.md)
