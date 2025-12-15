@@ -44,13 +44,14 @@ En resumen por todo lo anteriormente mencionado sobre los temas vistos en clase,
 **Referencias de IA.**
 https://copilot.microsoft.com/shares/p9Ri5VdECmofSPWMeCba7
 
-**TAREA Mini_Turtle**
-
-[Ejercicio 1 ](https://github.com/jian0895/mini_turtle_task.git)
-[Ejercicio 2 ](https://github.com/jian0895/mini_turtle_oo_task.git)
 
 
 [Despliegue de la tortuga veloz](TAREA2.md)
 
-[Encapsulando la tortuga.](tarea3.md)
+
+**TAREA Mini_Turtle**
+
+[Ejercicio 1 ](https://github.com/jian0895/mini_turtle_task.git)
+
+[Ejercicio 2 ](https://github.com/jian0895/mini_turtle_oo_task.git)
 
